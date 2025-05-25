@@ -1,4 +1,4 @@
-# Connect 4 AI Agent
+# Connect 4 Against AI Agent
 
 ## Overview
 
